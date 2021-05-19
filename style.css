@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.line{
+    width: 200px;
+    height:10px;
+    background-color: yellowgreen;
+    margin: 8px auto;
+}
+h1{
+    color: darkblue;
+    font-size: 30px;
+    font-family: Edwardian Script ITC;
+}
